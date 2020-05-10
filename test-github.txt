@@ -1,0 +1,3 @@
+Aryo Resolusi
+- Membuat web dengan basis PHP dan Js.
+- Belajar hal baru berbau audit.
